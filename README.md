@@ -1,12 +1,8 @@
-![Flutter Recipe App](https://user-images.githubusercontent.com/55942632/77454399-7b9a3780-6e1e-11ea-8aa3-ddd8e50cb90f.png)
+![Sulaimon Okikiola Flutter Recipe App](https://user-images.githubusercontent.com/73473767/125164534-af6fac80-e18a-11eb-8c13-e56d0876c8f4.png)
 
-# Build a Recipe App with Flutter
+# Built a Recipe App with Flutter
 
-Full FREE Course : https://youtu.be/VTR5HpRfS0A
-
-In todays episode we are going to take the basics of #flutter and we are going to create a real world application. We are going to learn how to build a food recipe application using only flutter.
-
-📕 Things covered in this video:
+📕 Things incorporated in this app:
 
 • Fetch data from an api with flutter
   
@@ -15,5 +11,3 @@ In todays episode we are going to take the basics of #flutter and we are going t
 • How to pass down data in flutter on widgets
 
 • How to show a grid view
-
-If you are a beginner with flutter I highly encourage you to follow along because you are going to learn how to put all the small pieces together to understand things like how to fetch data from an api, how to update state and more
